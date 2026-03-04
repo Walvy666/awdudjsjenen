@@ -5,6 +5,7 @@ return {
     Strawberry = "Uncommon",
     Mushroom = "Uncommon",
     Beetroot = "Rare",
+    Apple = "Rare",
     Tomato = "Rare",
     Rose = "Rare",
     Wheat = "Epic",
