@@ -5,5 +5,3 @@ task.spawn(function()
         task.wait()
     end
 end)
-
-return getkntlgede
